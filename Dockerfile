@@ -1,3 +1,4 @@
+FROM sitkevij/ffmpeg:4.0-alpine
 FROM node:lts-alpine
 
 ARG BUILD_DATE
